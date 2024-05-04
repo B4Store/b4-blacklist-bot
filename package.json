@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.6.3",
+    "@voiddevs.org/slashbot": "^1.1.8",
+    "croxydb": "^0.0.7",
+    "discord.js": "^13.16.0",
+    "slash-register": "^1.0.6"
+  }
+}
